@@ -44,6 +44,7 @@
     <b>grow</b> <img src="./Rocket.gif" width="18px">and 
     <b>excel</b> <img src="./Medal.gif" width="20px">&nbsp.
   </em> 
-  <br>
-  <b><i>Learning while HOPING & HUSTLING!!!</i></b>
+  <hr>
+  <hr>
 </p>
+<div align="center"><b><i>Learning while HOPING & HUSTLING!!!</i></b></div>
